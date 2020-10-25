@@ -10,3 +10,4 @@ gem "rack-test", "~> 0.5"
 gem "rake"
 gem "rubocop", "~> 0.80"
 gem "pry"
+gem 'redis-namespace', git: 'https://github.com/resque/redis-namespace', branch: 'master'
